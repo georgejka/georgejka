@@ -14,6 +14,4 @@ Skills:  HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgejka&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=georgejka)  
-
 ![Profile views](https://gpvc.arturio.dev/georgejka)  
